@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/01-Hellow-Dockerfile.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0b4KldWudoggn7OOXq7vZYr+cpz8Yvx1LyriMM5bGxo=",
+  "Source": "01-Hellow-Dockerfile",
+  "BasePath": "_content/01-Hellow-Dockerfile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

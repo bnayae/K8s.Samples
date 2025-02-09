@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bnaya-eshet/Code/edu/k8s-inrto-samples/K8s.Samples/01-Hello-Dockerfile/01-Hello-Dockerfile.csproj": {}
+  },
+  "projects": {
+    "/Users/bnaya-eshet/Code/edu/k8s-inrto-samples/K8s.Samples/01-Hello-Dockerfile/01-Hello-Dockerfile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bnaya-eshet/Code/edu/k8s-inrto-samples/K8s.Samples/01-Hello-Dockerfile/01-Hello-Dockerfile.csproj",
+        "projectName": "01-Hello-Dockerfile",
+        "projectPath": "/Users/bnaya-eshet/Code/edu/k8s-inrto-samples/K8s.Samples/01-Hello-Dockerfile/01-Hello-Dockerfile.csproj",
+        "packagesPath": "/Users/bnaya-eshet/.nuget/packages/",
+        "outputPath": "/Users/bnaya-eshet/Code/edu/k8s-inrto-samples/K8s.Samples/01-Hello-Dockerfile/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bnaya-eshet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/bnaya-eshet/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
