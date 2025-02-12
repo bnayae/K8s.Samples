@@ -1,6 +1,6 @@
 ﻿services:
-  01-hellow-dockerfile:
-    image: 01-hellow-dockerfile
+  01-Hello-dockerfile:
+    image: 01-Hello-dockerfile
     build:
       context: .
-      dockerfile: 01-Hellow-Dockerfile/Dockerfile
+      dockerfile: 01-Hello-Dockerfile/Dockerfile

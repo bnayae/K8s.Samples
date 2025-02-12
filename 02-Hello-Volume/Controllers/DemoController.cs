@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace _01_Hellow_Dockerfile.Controllers;
+namespace _01_Hello_Dockerfile.Controllers;
 
 [ApiController]
 [Route("[controller]")]

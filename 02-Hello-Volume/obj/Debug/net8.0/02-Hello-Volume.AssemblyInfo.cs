@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-Hello-Volume")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28362393f5d6f6d653c1575b415f76ac672d3206")]
 [assembly: System.Reflection.AssemblyProductAttribute("02-Hello-Volume")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-Hello-Volume")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

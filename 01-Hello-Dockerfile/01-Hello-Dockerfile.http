@@ -1,6 +1,6 @@
-@_01_Hellow_Dockerfile_HostAddress = http://localhost:5059
+@_01_Hello_Dockerfile_HostAddress = http://localhost:5059
 
-GET {{_01_Hellow_Dockerfile_HostAddress}}/demo/
+GET {{_01_Hello_Dockerfile_HostAddress}}/demo/
 Accept: application/json
 
 ###
